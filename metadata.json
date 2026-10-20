@@ -1,0 +1,6 @@
+{
+  "name": "LegalLens AI - Legal Contract Analyzer (Python, Streamlit & RAG)",
+  "description": "AI-powered legal contract analysis platform using Streamlit, NLP, LangChain, Pinecone, and RAG for automated clause extraction, risk scoring, redlining, and interactive contract Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
