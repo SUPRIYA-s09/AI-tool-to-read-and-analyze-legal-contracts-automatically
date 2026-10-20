@@ -51,3 +51,4 @@ docker run -p 8501:8501 --env-file .env legallens-ai
 3. **Pinecone Namespaces:** Multi-tenant isolation per contract (`namespace=contract_id`).
 4. **LangChain LCEL Pipeline:** Zero-hallucination prompt template with verifiable citations.
 5. **Streamlit UI:** Interactive legal workbench with risk scoring and redlines.
+app link : https://aistudio.google.com/apps/5dc59655-7ddc-443d-a8b7-6588404ccbd0?showAssistant=true&showPreview=true&fullscreenApplet=true
